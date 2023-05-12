@@ -1,0 +1,15 @@
+C:\Users\usuariocc\source\repos\GITHUB\bin\Debug\net6.0\GITHUB.exe
+C:\Users\usuariocc\source\repos\GITHUB\bin\Debug\net6.0\GITHUB.deps.json
+C:\Users\usuariocc\source\repos\GITHUB\bin\Debug\net6.0\GITHUB.runtimeconfig.json
+C:\Users\usuariocc\source\repos\GITHUB\bin\Debug\net6.0\GITHUB.dll
+C:\Users\usuariocc\source\repos\GITHUB\bin\Debug\net6.0\GITHUB.pdb
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.csproj.AssemblyReference.cache
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.AssemblyInfoInputs.cache
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.AssemblyInfo.cs
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.dll
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\refint\GITHUB.dll
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.pdb
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\GITHUB.genruntimeconfig.cache
+C:\Users\usuariocc\source\repos\GITHUB\obj\Debug\net6.0\ref\GITHUB.dll
