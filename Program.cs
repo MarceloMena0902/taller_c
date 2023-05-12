@@ -11,9 +11,13 @@
            
             for (s=1;s<=n;s++) 
             {
-                for(i=1;i<=s;i++)
+                for(i=1;i<=n;i++)
                 {
-                    Console.Write("*");
+                    if(s==n/3 || s==(n/3)*2 )
+                    {
+                        Console.Write("*");
+                    }
+                    
                 }
                 Console.WriteLine(" ");
             }
